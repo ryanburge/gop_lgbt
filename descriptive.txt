@@ -1,0 +1,10 @@
+variable,Entire Sample,LGBT
+Mean Age,48.4,42.8
+Mean Education,3.7,3.8
+Mean Household Income,6.3,6.1
+Male (%),48.22,57.73
+White (%),72.94,70.75
+Black (%),12.38,9.81
+Hispanic (%),7.35,9.97
+Asian (%),3.02,2.92
+Mixed (%),2.2,3.88
